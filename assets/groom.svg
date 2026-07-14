@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFF8E7"/>
+      <stop offset="100%" style="stop-color:#F5E6C8"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C9A84C"/>
+      <stop offset="100%" style="stop-color:#A07E2B"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <circle cx="200" cy="160" r="80" fill="url(#gold)" opacity="0.3"/>
+  <circle cx="200" cy="160" r="75" fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.5"/>
+  <text x="200" y="175" font-family="serif" font-size="60" fill="#C9A84C" text-anchor="middle" opacity="0.6">G</text>
+  <text x="200" y="300" font-family="serif" font-size="18" fill="#8B0000" text-anchor="middle" opacity="0.5">Ajith - Groom's Photo</text>
+  <text x="200" y="330" font-family="serif" font-size="12" fill="#A07E2B" text-anchor="middle" opacity="0.4">Replace with your photo</text>
+</svg>
