@@ -24,7 +24,7 @@ const WEDDING_CONFIG = {
 
   // ── Wedding Date & Time ─────────────────────────────────────
   wedding: {
-    date: "2026-08-21T09:45:00",      // YYYY-MM-DDTHH:MM:SS (24hr format)
+    date: "2026-08-21T09:45:00+05:30", // YYYY-MM-DDTHH:MM:SS+05:30 (IST)
     muhurtham: "9:45 AM - 10:30 AM",
     venue: {
       name: "Anjumana Devi Temple, Edappally",
