@@ -16,7 +16,7 @@ const WEDDING_CONFIG = {
   },
   groom: {
     name: "Ajith",
-    malayalamName: "അജിത്",
+    malayalamName: "അജിത്ത്",
     photo: "assets/groom.jpg",        // Replace with your photo
     description: "Son of Shri. Aravindakhan T S & Smt. Padmavathi",
     family: "Thathampalli, Aroor"

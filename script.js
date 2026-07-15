@@ -30,8 +30,8 @@ function populateContent() {
     const C = WEDDING_CONFIG;
 
     // Hero
-    document.getElementById('hero-groom-name').textContent = C.bride.name;
-    document.getElementById('hero-bride-name').textContent = C.groom.name;
+    document.getElementById('hero-groom-name').textContent = C.groom.name;
+    document.getElementById('hero-bride-name').textContent = C.bride.name;
     document.getElementById('hero-malayalam-names').textContent =
         C.bride.malayalamName + '  &  ' + C.groom.malayalamName;
 
